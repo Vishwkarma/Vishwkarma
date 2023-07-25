@@ -1,5 +1,4 @@
 
-<img src="https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev3199cfde42136fdb9c52ff000079db5a.jpg?sfvrsn=978aa05f_0f">
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <h3 align="center">A passionate java and frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
