@@ -1,4 +1,6 @@
-<img src="https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev.jpg?Status=Master&amp;sfvrsn=aa8aa05f_0" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 3000px; height: 273px; margin: 0px; width: 410px;" alt="7 Habits of Highly Effective Software Developers" jsname="kn3ccd" aria-hidden="false">
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...
+"
+
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <h3 align="center">A passionate java and frontend developer from India</h3>
 
