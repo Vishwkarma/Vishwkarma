@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwkarma&label=Profile%20views&color=0e75b6&style=flat" alt="vishwkarma" /> </p>
    
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **.Net Technologies And Full Stack Development**
 - 💬 Ask me about **Core Java, HTML, CSS, JS, BASIC OF REACT AND ANGULAR, Cloud Computing, DSA, Networking, OOPs, vb.NET, ADO.NET, WINFORM, BASIC OF C/C++, C#**
 - 📫 How to reach me **Chetan77038@gmail.com**
 - ⚡ Fun fact **I am good listner**
